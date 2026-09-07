@@ -1,0 +1,10 @@
+{
+  "config_version": 2,
+  "enabled": false,
+  "status": "locked",
+  "license_expiry": "2027-07-01",
+  "offline_expiry_date": "2027-07-01",
+  "message": "تجربة عملية: تم إيقاف الترخيص عن بُعد بنجاح.",
+  "title": "تم إيقاف التطبيق",
+  "signature": "d5e034f90c2b4d84c7610446cb0e6760ee1ea81fa542ccd7b85b1656f32828db"
+}
